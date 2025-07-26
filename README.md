@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Amigo Secreto
 
 Esta aplicación permite organizar un sorteo de "Amigo Secreto" de manera sencilla y rápida.
@@ -11,8 +10,8 @@ Esta aplicación permite organizar un sorteo de "Amigo Secreto" de manera sencil
 
 ## Tecnologías utilizadas
 
-- **HTML5:** Estructura de la aplicación.
-- **CSS3:** Estilos y diseño responsivo.
+- **HTML:** Estructura de la aplicación.
+- **CSS:** Estilos y diseño responsivo.
 - **JavaScript:** Lógica para agregar amigos, mostrar la lista y realizar el sorteo.
 
 ## Uso
@@ -23,7 +22,6 @@ Esta aplicación permite organizar un sorteo de "Amigo Secreto" de manera sencil
 4. El nombre sorteado se mostrará en pantalla.
 
 ## Estructura del proyecto
-=======
 <h1>Challenge amigo secreto</h1>
 
 <h3>Fucionalidades:</h3>
@@ -36,4 +34,3 @@ Esta aplicación permite organizar un sorteo de "Amigo Secreto" de manera sencil
 
 <li>Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.</li>
 </ul>
->>>>>>> 73c61d354a9b9739f196a6b91c40be98877b44f4
